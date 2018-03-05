@@ -19,7 +19,7 @@ virtualenv .env
 Mine 10 blocks
 
 ```
-.env/bin/python miner.py https://127.0.0.1:8545 -n 10
+.env/bin/python miner.py http://127.0.0.1:8545 -n 10
 ```
 
 ## Help
